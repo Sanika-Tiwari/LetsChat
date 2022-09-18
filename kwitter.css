@@ -1,0 +1,37 @@
+body{
+    font-family: 'ABeeZee', sans-serif;
+    background: hsla(10, 73%, 83%, 1);
+
+background: linear-gradient(135deg, hsla(10, 73%, 83%, 1) 0%, hsla(10, 73%, 83%, 1) 0%, hsla(70, 71%, 82%, 1) 0%, hsla(11, 69%, 75%, 1) 11%, hsla(2, 100%, 78%, 1) 23%, hsla(356, 63%, 74%, 1) 36%, hsla(331, 71%, 76%, 1) 49%, hsla(322, 72%, 79%, 1) 58%, hsla(310, 71%, 82%, 1) 65%, hsla(246, 47%, 87%, 1) 76%, hsla(190, 71%, 82%, 1) 86%, hsla(191, 69%, 75%, 1) 100%);
+
+background: -moz-linear-gradient(135deg, hsla(10, 73%, 83%, 1) 0%, hsla(10, 73%, 83%, 1) 0%, hsla(70, 71%, 82%, 1) 0%, hsla(11, 69%, 75%, 1) 11%, hsla(2, 100%, 78%, 1) 23%, hsla(356, 63%, 74%, 1) 36%, hsla(331, 71%, 76%, 1) 49%, hsla(322, 72%, 79%, 1) 58%, hsla(310, 71%, 82%, 1) 65%, hsla(246, 47%, 87%, 1) 76%, hsla(190, 71%, 82%, 1) 86%, hsla(191, 69%, 75%, 1) 100%);
+
+background: -webkit-linear-gradient(135deg, hsla(10, 73%, 83%, 1) 0%, hsla(10, 73%, 83%, 1) 0%, hsla(70, 71%, 82%, 1) 0%, hsla(11, 69%, 75%, 1) 11%, hsla(2, 100%, 78%, 1) 23%, hsla(356, 63%, 74%, 1) 36%, hsla(331, 71%, 76%, 1) 49%, hsla(322, 72%, 79%, 1) 58%, hsla(310, 71%, 82%, 1) 65%, hsla(246, 47%, 87%, 1) 76%, hsla(190, 71%, 82%, 1) 86%, hsla(191, 69%, 75%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#f3bdb2", endColorstr="#f3bdb2", GradientType=1 );
+}
+
+.header{
+    font-family: 'ABeeZee', sans-serif;
+    font-size:xxx-large;
+}
+
+img{
+    height: 25%;
+}
+
+#user_name{
+    width: 50%;
+    margin: 50px;
+    border-radius: 5px;
+}
+
+#login_button{
+    margin: 25px;
+}
+
+#logo{
+    border-radius: 50%;
+    height: 25%;
+}
+
